@@ -1,5 +1,3 @@
-# https://towardsdatascience.com/graph-attention-networks-in-python-975736ac5c0c
-
 # -------------------------------------------------------- #
 # -------------------------------------------------------- #
 # implementing a graph neural network with an
